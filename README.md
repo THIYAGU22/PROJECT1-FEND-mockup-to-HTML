@@ -9,4 +9,4 @@ To edit that your index.html file renders exactly like the mockup! should not to
 
 #screenshots:
 
-<img src="https://user-images.githubusercontent.com/27724580/36731865-061f47dc-1bf2-11e8-9433-41ddfd24486a.png" width="3000">
+<img src="https://user-images.githubusercontent.com/27724580/36731865-061f47dc-1bf2-11e8-9433-41ddfd24486a.png" width="3000" height="1200">
