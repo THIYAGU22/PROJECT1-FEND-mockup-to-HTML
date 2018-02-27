@@ -1,0 +1,23 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ 
+ * What new skills have you learned?
+
+             *adding br , p , em , sup , strike , a href , img src tags followed by more
+             * implementing the tags in our webpage
+
+  * What has been easy?
+ 
+  yeah , when youre doing something innovative it cherishes us to achieve a lot
+
+ * What has been difficult?
+
+    "the big thing around the sky is GOOGLE " , with the help of google we can search what it is difficult ?
+     nothing , achieved with the help of google
+
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+      yeah , sketched the trees what it is going to be comprised of
+      and then finished it :) 
